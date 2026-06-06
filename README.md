@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sirisha Priya 👋<br><br>🎓 2nd Year Computer Science Engineering student<br>☁️ Exploring Cloud Computing, Full Stack, and Machine Learning<br>📚 Learning Data Structures & Algorithms <br>🌱 Open Source Contributor and continuous learner<br>🚀 Passionate about building impactful projects and solving real-world problems<br><br>Feel free to explore my repositories and connect with me!
+Hi, I'm Sirisha Priya 👋<br><br>🎓 3rd Year Computer Science Engineering student<br>☁️ Exploring Cloud Computing, Full Stack, and Machine Learning<br>📚 Learning Data Structures & Algorithms <br>🌱 Open Source Contributor and continuous learner<br>🚀 Passionate about building impactful projects and solving real-world problems<br><br>Feel free to explore my repositories and connect with me!
 
 
 ## 🌐 Socials:
